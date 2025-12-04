@@ -2,6 +2,8 @@
 
 require_once("./server.php");
 
+
+// var_dump($albums);
 ?>
 
 
@@ -19,34 +21,34 @@ require_once("./server.php");
         Rock Music Player
     </h1>
     <div class="container my-5">
-        <div class="row">
-            <div class="col col-4">
+        <div class="row row-cols-3 row-gap-3">
+            <?php
+            foreach($albums as $album) {
+            ?>
+            <div class="col">
                 <div class="card">
-                    <img src="https://img.freepik.com/vettori-premium/poster-rock-colorato-con-chitarre_153969-9467.jpg?semt=ais_hybrid&w=740&q=80" alt="" class="card-top">
+                    <img src= <?php echo $album["url_cover"]?> alt= <?php echo $album["titolo"] ?> class="card-top">
                     <div class="card-bottom p-2">
                         <h4>
-                            Titolo
+                        <?php echo $album["titolo"] ?>
                         </h4>
                         <h6>
-                            Artista
+                        <?php echo $album["artista"] ?>
                         </h6>
                         <div class="d-flex justify-content-between">
                             <span>
-                                Anno di pubblicazione
+                            <?php echo $album["anno_pubblicazione"] ?>
                             </span>
                             <span>
-                                Genere
+                            <?php echo $album["genere"] ?>
                             </span>
                         </div>
                     </div>
                 </div>
             </div>
-            <div class="col col-4">
-                <div class="card"></div>
-            </div>
-            <div class="col col-4">
-                <div class="card"></div>
-            </div>
+            <?php
+            }
+            ?>
         </div>
     </div>
 </body>
