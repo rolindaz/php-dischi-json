@@ -72,7 +72,7 @@ require_once("./music.php");
             ?>
             <div class="col">
                 <div class="card">
-                    <img src= <?php echo $album["url_cover"]?> alt= <?php echo $album["titolo"] ?> class="card-top">
+                    <img src="<?php echo $album["url_cover"]?>" alt="<?php echo $album["titolo"] ?>" class="card-top">
                     <div class="card-bottom p-2">
                         <h4>
                         <?php echo $album["titolo"] ?>
