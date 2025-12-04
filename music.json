@@ -1,0 +1,142 @@
+[
+    {
+        "titolo": "Dark Side of the Moon",
+        "artista": "Pink Floyd",
+        "url_cover": "https://example.com/dark_side_of_the_moon.jpg",
+        "anno_pubblicazione": 1973,
+        "genere": "Progressive Rock"
+    },
+    {
+        "titolo": "Led Zeppelin IV",
+        "artista": "Led Zeppelin",
+        "url_cover": "https://example.com/led_zeppelin_iv.jpg",
+        "anno_pubblicazione": 1971,
+        "genere": "Hard Rock"
+    },
+    {
+        "titolo": "Back in Black",
+        "artista": "AC/DC",
+        "url_cover": "https://example.com/back_in_black.jpg",
+        "anno_pubblicazione": 1980,
+        "genere": "Hard Rock"
+    },
+    {
+        "titolo": "Abbey Road",
+        "artista": "The Beatles",
+        "url_cover": "https://example.com/abbey_road.jpg",
+        "anno_pubblicazione": 1969,
+        "genere": "Rock"
+    },
+    {
+        "titolo": "Hotel California",
+        "artista": "Eagles",
+        "url_cover": "https://example.com/hotel_california.jpg",
+        "anno_pubblicazione": 1976,
+        "genere": "Rock"
+    },
+    {
+        "titolo": "Born to Run",
+        "artista": "Bruce Springsteen",
+        "url_cover": "https://example.com/born_to_run.jpg",
+        "anno_pubblicazione": 1975,
+        "genere": "Rock"
+    },
+    {
+        "titolo": "The Wall",
+        "artista": "Pink Floyd",
+        "url_cover": "https://example.com/the_wall.jpg",
+        "anno_pubblicazione": 1979,
+        "genere": "Progressive Rock"
+    },
+    {
+        "titolo": "Rumours",
+        "artista": "Fleetwood Mac",
+        "url_cover": "https://example.com/rumours.jpg",
+        "anno_pubblicazione": 1977,
+        "genere": "Rock"
+    },
+    {
+        "titolo": "Nevermind",
+        "artista": "Nirvana",
+        "url_cover": "https://example.com/nevermind.jpg",
+        "anno_pubblicazione": 1991,
+        "genere": "Grunge"
+    },
+    {
+        "titolo": "Appetite for Destruction",
+        "artista": "Guns N' Roses",
+        "url_cover": "https://example.com/appetite_for_destruction.jpg",
+        "anno_pubblicazione": 1987,
+        "genere": "Hard Rock"
+    },
+    {
+        "titolo": "A Night at the Opera",
+        "artista": "Queen",
+        "url_cover": "https://example.com/a_night_at_the_opera.jpg",
+        "anno_pubblicazione": 1975,
+        "genere": "Rock"
+    },
+    {
+        "titolo": "Sticky Fingers",
+        "artista": "The Rolling Stones",
+        "url_cover": "https://example.com/sticky_fingers.jpg",
+        "anno_pubblicazione": 1971,
+        "genere": "Rock"
+    },
+    {
+        "titolo": "The Joshua Tree",
+        "artista": "U2",
+        "url_cover": "https://example.com/the_joshua_tree.jpg",
+        "anno_pubblicazione": 1987,
+        "genere": "Rock"
+    },
+    {
+        "titolo": "OK Computer",
+        "artista": "Radiohead",
+        "url_cover": "https://example.com/ok_computer.jpg",
+        "anno_pubblicazione": 1997,
+        "genere": "Alternative Rock"
+    },
+    {
+        "titolo": "Ten",
+        "artista": "Pearl Jam",
+        "url_cover": "https://example.com/ten.jpg",
+        "anno_pubblicazione": 1991,
+        "genere": "Grunge"
+    },
+    {
+        "titolo": "Who's Next",
+        "artista": "The Who",
+        "url_cover": "https://example.com/whos_next.jpg",
+        "anno_pubblicazione": 1971,
+        "genere": "Rock"
+    },
+    {
+        "titolo": "Houses of the Holy",
+        "artista": "Led Zeppelin",
+        "url_cover": "https://example.com/houses_of_the_holy.jpg",
+        "anno_pubblicazione": 1973,
+        "genere": "Hard Rock"
+    },
+    {
+        "titolo": "Paranoid",
+        "artista": "Black Sabbath",
+        "url_cover": "https://example.com/paranoid.jpg",
+        "anno_pubblicazione": 1970,
+        "genere": "Heavy Metal"
+    },
+    {
+        "titolo": "The Rise and Fall of Ziggy Stardust",
+        "artista": "David Bowie",
+        "url_cover": "https://example.com/ziggy_stardust.jpg",
+        "anno_pubblicazione": 1972,
+        "genere": "Glam Rock"
+    },
+    {
+        "titolo": "American Idiot",
+        "artista": "Green Day",
+        "url_cover": "https://example.com/american_idiot.jpg",
+        "anno_pubblicazione": 2004,
+        "genere": "Punk Rock"
+    }
+]
