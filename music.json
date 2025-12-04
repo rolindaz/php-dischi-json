@@ -100,42 +100,42 @@
     {
         "titolo": "Ten",
         "artista": "Pearl Jam",
-        "url_cover": "https://example.com/ten.jpg",
+        "url_cover": "https://upload.wikimedia.org/wikipedia/en/3/3b/Dark_Side_of_the_Moon.png",
         "anno_pubblicazione": 1991,
         "genere": "Grunge"
     },
     {
         "titolo": "Who's Next",
         "artista": "The Who",
-        "url_cover": "https://example.com/whos_next.jpg",
+        "url_cover": "https://upload.wikimedia.org/wikipedia/en/3/3b/Dark_Side_of_the_Moon.png",
         "anno_pubblicazione": 1971,
         "genere": "Rock"
     },
     {
         "titolo": "Houses of the Holy",
         "artista": "Led Zeppelin",
-        "url_cover": "https://example.com/houses_of_the_holy.jpg",
+        "url_cover": "https://upload.wikimedia.org/wikipedia/en/3/3b/Dark_Side_of_the_Moon.png",
         "anno_pubblicazione": 1973,
         "genere": "Hard Rock"
     },
     {
         "titolo": "Paranoid",
         "artista": "Black Sabbath",
-        "url_cover": "https://example.com/paranoid.jpg",
+        "url_cover": "https://upload.wikimedia.org/wikipedia/en/3/3b/Dark_Side_of_the_Moon.png",
         "anno_pubblicazione": 1970,
         "genere": "Heavy Metal"
     },
     {
         "titolo": "The Rise and Fall of Ziggy Stardust",
         "artista": "David Bowie",
-        "url_cover": "https://example.com/ziggy_stardust.jpg",
+        "url_cover": "https://upload.wikimedia.org/wikipedia/en/3/3b/Dark_Side_of_the_Moon.png",
         "anno_pubblicazione": 1972,
         "genere": "Glam Rock"
     },
     {
         "titolo": "American Idiot",
         "artista": "Green Day",
-        "url_cover": "https://example.com/american_idiot.jpg",
+        "url_cover": "https://upload.wikimedia.org/wikipedia/en/3/3b/Dark_Side_of_the_Moon.png",
         "anno_pubblicazione": 2004,
         "genere": "Punk Rock"
     }
