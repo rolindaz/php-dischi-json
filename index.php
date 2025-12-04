@@ -1,11 +1,7 @@
 <?php
 
-require_once("./server.php");
-
-
-// var_dump($albums);
+require_once("./music.php");
 ?>
-
 
 <!DOCTYPE html>
 <html lang="en">
@@ -22,7 +18,7 @@ require_once("./server.php");
     </h1>
     <div class="container my-5">
         <div class="row mb-5">
-            <form class="w-75 mx-auto px-5" method="POST">
+            <form class="w-75 mx-auto px-5" action="./server.php" method="POST">
                 <div class="form-control py-3 px-5 d-flex flex-column gap-2">
                     <div class="text-center mb-2">
                         <h4>
