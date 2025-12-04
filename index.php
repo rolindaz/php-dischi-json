@@ -21,6 +21,50 @@ require_once("./server.php");
         Rock Music Player
     </h1>
     <div class="container my-5">
+        <div class="row mb-5">
+            <form class="w-75 mx-auto px-5" action="">
+                <div class="form-control py-3 px-5 d-flex flex-column gap-2">
+                    <div class="text-center mb-2">
+                        <h4>
+                            Aggiungi un nuovo album alla tua collezione!
+                        </h4>
+                    </div>
+                    <div class="d-flex justify-content-between titolo">
+                        <label for="titolo">
+                            Titolo
+                        </label>
+                        <input type="text" name="titolo" id="titolo">
+                    </div>
+                    <div class="d-flex justify-content-between artista">
+                        <label for="artista">
+                            Artista
+                        </label>
+                        <input type="text" name="artista" id="artista">
+                    </div>
+                    <div class="d-flex justify-content-between cover">
+                        <label for="url_cover">
+                            URL della cover
+                        </label>
+                        <input type="text" name="url_cover" id="url_cover">
+                    </div>
+                    <div class="d-flex justify-content-between anno">
+                        <label for="anno_pubblicazione">
+                            Anno di pubblicazione
+                        </label>
+                        <input type="text" name="anno_pubblicazione" id="anno_pubblicazione">
+                        </div>
+                        <div class="d-flex justify-content-between genere">
+                            <label for="genere">
+                                Genere
+                            </label>
+                            <input type="text" name="genere" id="genere">
+                        </div>
+                        <button style="max-width: fit-content" class="btn btn-secondary mx-auto mt-3">
+                            Aggiungi album
+                        </button>
+                </div>
+            </form>
+        </div>
         <div class="row row-cols-3 row-gap-3">
             <?php
             foreach($albums as $album) {
